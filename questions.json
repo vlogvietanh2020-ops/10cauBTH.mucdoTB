@@ -1,0 +1,132 @@
+[
+  {
+    "id": "Q9",
+    "level": "Vận dụng",
+    "text": "Nguyên tử X có 3 lớp electron và 1 electron ở lớp ngoài cùng. X thuộc vị trí nào sau đây?",
+    "options": [
+      "Chu kì 3, nhóm IA",
+      "Chu kì 2, nhóm IA",
+      "Chu kì 1, nhóm IA",
+      "Chu kì 3, nhóm IIA"
+    ],
+    "answer": 0,
+    "explanation": "Có 3 lớp electron nên X ở chu kì 3; có 1 electron hóa trị nên thuộc nhóm IA (nhóm 1)."
+  },
+  {
+    "id": "Q10",
+    "level": "Vận dụng",
+    "text": "Ba nguyên tố Na, Mg và Al cùng thuộc chu kì 3. Thứ tự bán kính nguyên tử giảm dần là phương án nào?",
+    "options": [
+      "Na > Al > Mg",
+      "Mg > Na > Al",
+      "Na > Mg > Al",
+      "Al > Mg > Na"
+    ],
+    "answer": 2,
+    "explanation": "Trong cùng chu kì 3, bán kính nguyên tử giảm từ trái sang phải: Na > Mg > Al."
+  },
+  {
+    "id": "Q8",
+    "level": "Thông hiểu",
+    "text": "Nguyên tố có độ âm điện lớn thường có khả năng nào?",
+    "options": [
+      "Hút electron trong liên kết mạnh",
+      "Không tham gia liên kết",
+      "Luôn tạo ion dương",
+      "Nhường electron liên kết mạnh"
+    ],
+    "answer": 0,
+    "explanation": "Độ âm điện đặc trưng cho khả năng hút electron của nguyên tử khi hình thành liên kết hóa học."
+  },
+  {
+    "id": "Q4",
+    "level": "Nhận biết",
+    "text": "Các nguyên tố thuộc cùng một nhóm A thường có cùng số nào?",
+    "options": [
+      "Số lớp electron",
+      "Số electron hóa trị",
+      "Số hiệu nguyên tử",
+      "Số neutron"
+    ],
+    "answer": 1,
+    "explanation": "Các nguyên tố nhóm A có số electron hóa trị giống nhau hoặc bằng nhau theo đặc điểm nhóm."
+  },
+  {
+    "id": "Q5",
+    "level": "Nhận biết",
+    "text": "Nguyên tố sodium (Na) nằm ở chu kì nào của bảng tuần hoàn?",
+    "options": [
+      "Chu kì 2",
+      "Chu kì 4",
+      "Chu kì 1",
+      "Chu kì 3"
+    ],
+    "answer": 3,
+    "explanation": "Na có cấu hình electron 1s² 2s² 2p⁶ 3s¹, có 3 lớp electron nên thuộc chu kì 3."
+  },
+  {
+    "id": "Q1",
+    "level": "Nhận biết",
+    "text": "Trong bảng tuần hoàn hiện đại, các nguyên tố hóa học được sắp xếp theo chiều tăng dần của đại lượng nào?",
+    "options": [
+      "Số neutron",
+      "Số khối",
+      "Nguyên tử khối trung bình",
+      "Điện tích hạt nhân (số hiệu nguyên tử)"
+    ],
+    "answer": 3,
+    "explanation": "Các nguyên tố được sắp xếp theo chiều tăng dần của điện tích hạt nhân, tức số hiệu nguyên tử Z."
+  },
+  {
+    "id": "Q3",
+    "level": "Nhận biết",
+    "text": "Các nguyên tố trong cùng một chu kì có cùng đặc điểm nào sau đây?",
+    "options": [
+      "Cùng số electron lớp ngoài cùng",
+      "Cùng số lớp electron",
+      "Cùng số proton",
+      "Cùng tính chất hóa học"
+    ],
+    "answer": 1,
+    "explanation": "Các nguyên tố trong cùng một chu kì có cùng số lớp electron."
+  },
+  {
+    "id": "Q7",
+    "level": "Thông hiểu",
+    "text": "Trong một nhóm A, đi từ trên xuống dưới, tính kim loại của các nguyên tố nhìn chung thay đổi thế nào?",
+    "options": [
+      "Tăng dần",
+      "Không đổi",
+      "Giảm dần",
+      "Mất hẳn"
+    ],
+    "answer": 0,
+    "explanation": "Đi từ trên xuống dưới trong một nhóm A, bán kính nguyên tử tăng, electron ngoài cùng dễ nhường hơn nên tính kim loại tăng."
+  },
+  {
+    "id": "Q2",
+    "level": "Nhận biết",
+    "text": "Bảng tuần hoàn hiện đại có bao nhiêu chu kì?",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "Bảng tuần hoàn hiện đại gồm 7 chu kì."
+  },
+  {
+    "id": "Q6",
+    "level": "Thông hiểu",
+    "text": "Trong một chu kì, đi từ trái sang phải, bán kính nguyên tử nhìn chung biến đổi như thế nào?",
+    "options": [
+      "Không đổi",
+      "Giảm dần",
+      "Tăng rồi giảm",
+      "Tăng dần"
+    ],
+    "answer": 1,
+    "explanation": "Trong một chu kì, điện tích hạt nhân tăng trong khi số lớp electron không đổi, lực hút hạt nhân với electron tăng nên bán kính nguyên tử nhìn chung giảm."
+  }
+]
